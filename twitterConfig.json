@@ -1,0 +1,15 @@
+{
+    "protocall": "https",
+    "host": "api.twitter.com",
+    "authEndpoint": "oauth2/token",
+    "authConsumerKey": "wTd5sUtmkBYcPT1IMvgWV1a2Y",
+    "authConsumerSecret": "YWERd88DiqLyBvMnHkt4kcAWZVWAqoduU6B0iNxMCSh8tR0hBh",
+    "feedEndpoint": "1.1/statuses/user_timeline.json",
+
+    "database": "twitter",
+    "maxQuerySize": 200,
+
+    "feed": "twitterapi",
+    "feedSize": 500,
+    "feedDirectionUp": false
+}
