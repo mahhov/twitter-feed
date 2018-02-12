@@ -55,7 +55,6 @@ dropDatabase()
     .then(createIndex)
     .then(() => {
         console.log('\nsuccessful')
-        process.exit();
     }).catch(error => {
         console.log('\n{0}'.formatUnicorn(error));
     });

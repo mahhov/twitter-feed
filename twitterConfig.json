@@ -10,6 +10,5 @@
     "maxQuerySize": 200,
 
     "feed": "twitterapi",
-    "feedSize": 500,
-    "feedDirectionUp": false
+    "feedSize": 500
 }
